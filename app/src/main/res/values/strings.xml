@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UnitTest</string>
+    <string name="tambah">Tambah</string>
+    <string name="masukkan_angka_pertama">Masukkan angka pertama</string>
+    <string name="masukkan_angka_kedua">Masukkan angka kedua</string>
+
+    <string name="hasil">Hasil:</string>
+</resources>
