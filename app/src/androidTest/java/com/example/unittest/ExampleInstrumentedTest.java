@@ -13,6 +13,7 @@ import static org.junit.Assert.assertEquals;
  * Kelas ini menguji apakah aplikasi berjalan di package yang benar
  * Menggunakan instrumented test (AndroidJUnit4)
  */
+
 @RunWith(AndroidJUnit4.class)
 public class ExampleInstrumentedTest {
 
