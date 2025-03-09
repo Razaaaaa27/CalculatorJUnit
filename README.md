@@ -49,9 +49,4 @@ Once the app is running on your device or emulator, you will be able to input tw
 
 This project includes unit and UI tests. The tests are based on the **JUnit** framework for unit testing and **Espresso** for UI testing.
 
-#### Run Unit Tests
 
-To run unit tests, use the following command:
-
-```bash
-./gradlew test
